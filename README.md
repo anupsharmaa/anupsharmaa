@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Full Stack and GenAI<br><br>- 🌱 I’m currently learning NodeJs,React and Agentic AI<br><br>- 👯 I’m looking to collaborate on GenAI Projects/Startup<br><br>- 💬 Ask me about Python, MongoDB, GenAI & LLMs Etc.</p>
+<p align="left">- 🔭 I’m currently working on Full Stack and GenAI<br><br>- 🌱 I’m currently learning NodeJs, React and Agentic AI<br><br>- 👯 I’m looking to collaborate on GenAI Projects/Startup<br><br>- 💬 Ask me about Python, MongoDB, GenAI & LLMs Etc.</p>
 
 ###
 
