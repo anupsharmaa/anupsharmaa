@@ -1,16 +1,8 @@
-<h1 align="left">Hi 👋, I'm Anup Sharma</h1>
+<h1 align="center">Hi 👋, I'm Anup Sharma</h1>
 
 ###
 
-<h3 align="left">A passionate developer from India</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anupsharmaa/anupsharmaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anupsharmaa/anupsharmaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anupsharmaa/anupsharmaa/output/pacman-contribution-graph.svg">
-</picture>
+<h4 align="center">A passionate developer from India</h4>
 
 ###
 
@@ -18,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Full Stack and GenAI<br><br>- 🌱 I’m currently learning NodeJs,React and Agentic AI<br><br>- 👯 I’m looking to collaborate on GenAI Projects/Startup<br><br>- 💬 Ask me about Python, MongoDB, GenAI Etc.</p>
+<p align="left">- 🔭 I’m currently working on Full Stack and GenAI<br><br>- 🌱 I’m currently learning NodeJs,React and Agentic AI<br><br>- 👯 I’m looking to collaborate on GenAI Projects/Startup<br><br>- 💬 Ask me about Python, MongoDB, GenAI & LLMs Etc.</p>
 
 ###
 
