@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack and GenAI**
 
-- 🌱 I’m currently learning **NodeJs,React and Agentic AI**
+- 🌱 I’m currently learning **NodeJs, ReactJs and Agentic AI**
 
 - 👯 I’m looking to collaborate on **GenAI Projects**
 
